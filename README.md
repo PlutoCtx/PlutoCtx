@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
  
 <div align="center">
     <a href="https://github.com/PlutoCtx/awesome-github-profile-readme/stargazers">
-      <img src="https://img.shields.io/github/stars/PlutoCtx/awesome-github-profile-readme" alt="Stars Badge"/>
+      <img src="https://img.shields.io/github/stars/PlutoCtx/PlutoCtx" alt="Stars Badge"/>
     </a>
     <a href="https://github.com/PlutoCtx/PlutoCtx/network/members">
       <img src="https://img.shields.io/github/forks/PlutoCtx/PlutoCtx" alt="Forks Badge"/>

@@ -10,3 +10,7 @@ also,I have an account on CSDN to record my daily works and life,might be a litt
 PlutoCtx/PlutoCtx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=PlutoCtx&show_icons=true&theme=dark&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PlutoCtx&theme=dark&layout=compact)
+

@@ -41,6 +41,18 @@ You can click the Preview link to take a look at your changes.
 <!--   <img src="https://visitor-badge.glitch.me/badge?page_id=PlutoCtx" alt="访客统计" /> -->
 </div><br>
 
+
+
+
+
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=PlutoCtx&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+  </tr>
+</table>
+
+
 <div align="center">  
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=PlutoCtx&show_icons=true&theme=dark" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlutoCtx&theme=dark&layout=compact" /> 
@@ -52,3 +64,11 @@ You can click the Preview link to take a look at your changes.
 <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_53311714&theme=dark"> </div><br>
 
 
+<!-- Wakatime Graph-->
+<table>
+  <tr>
+    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
+  </tr>
+</table>
+</div>

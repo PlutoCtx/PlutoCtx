@@ -12,23 +12,23 @@ You can click the Preview link to take a look at your changes.
 --->
  
 <div align="center">
-    <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers">
-      <img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/>
+    <a href="https://github.com/PlutoCtx/awesome-github-profile-readme/stargazers">
+      <img src="https://img.shields.io/github/stars/PlutoCtx/awesome-github-profile-readme" alt="Stars Badge"/>
     </a>
-    <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members">
-      <img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/>
+    <a href="https://github.com/PlutoCtx/PlutoCtx/network/members">
+      <img src="https://img.shields.io/github/forks/PlutoCtx/PlutoCtx" alt="Forks Badge"/>
     </a>
-    <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls">
-      <img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/>
+    <a href="https://github.com/PlutoCtx/PlutoCtx/pulls">
+      <img src="https://img.shields.io/github/issues-pr/PlutoCtx/PlutoCtx" alt="Pull Requests Badge"/>
     </a>
-    <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues">
-      <img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/>
+    <a href="https://github.com/PlutoCtx/PlutoCtx/issues">
+      <img src="https://img.shields.io/github/issues/PlutoCtx/PlutoCtx" alt="Issues Badge"/>
     </a>
-    <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors">
-      <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348">
+    <a href="https://github.com/PlutoCtx/PlutoCtx/graphs/contributors">
+      <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/PlutoCtx/PlutoCtx?color=2b9348">
     </a>
-    <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE">
-      <img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/>
+    <a href="https://github.com/PlutoCtx/PlutoCtx/blob/master/LICENSE">
+      <img src="https://img.shields.io/github/license/PlutoCtx/PlutoCtx?color=2b9348" alt="License Badge"/>
     </a>
 </div>
 
@@ -39,20 +39,16 @@ You can click the Preview link to take a look at your changes.
   <!-- visitor statistics logo 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=PlutoCtx" />
 <!--   <img src="https://visitor-badge.glitch.me/badge?page_id=PlutoCtx" alt="访客统计" /> -->
-</div>
-
+</div><br>
 
 <div align="center">  
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=PlutoCtx&show_icons=true&theme=dark" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlutoCtx&theme=dark&layout=compact" /> 
-</div>
+</div><br>
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PlutoCtx&theme=dark" /> </div><br>
+
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PlutoCtx&theme=dark" /> </div><br>
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_53311714&theme=dark"> </div><br>
 
 
-
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PlutoCtx&theme=dark" /> </div>
-
-
-
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PlutoCtx&theme=dark" /> </div>
-<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_53311714&theme=dark"> </div>

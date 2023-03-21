@@ -10,48 +10,49 @@ also,I have an account on CSDN to record my daily works and life,might be a litt
 PlutoCtx/PlutoCtx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=PlutoCtx&show_icons=true&theme=dark&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PlutoCtx&theme=dark&layout=compact)
- -->
  
- <i>A curated list of awesome Github Profile READMEs</i>
-
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers">
-  <img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/>
-</a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members">
-  <img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/>
-</a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls">
-  <img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/>
-</a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues">
-  <img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/>
-</a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors">
-  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348">
-</a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE">
-  <img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/>
-</a>
-
+<div align="center">
+    <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers">
+      <img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/>
+    </a>
+    <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members">
+      <img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/>
+    </a>
+    <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls">
+      <img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/>
+    </a>
+    <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues">
+      <img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/>
+    </a>
+    <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors">
+      <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348">
+    </a>
+    <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE">
+      <img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/>
+    </a>
+</div>
 
 <!-- profile logo 个人资料徽标 -->
 <div align="center">
   <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   <a href="https://blog.csdn.net/qq_53311714/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
   <!-- visitor statistics logo 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=PlutoCtx" alt="访客统计" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=PlutoCtx" />
+<!--   <img src="https://visitor-badge.glitch.me/badge?page_id=PlutoCtx" alt="访客统计" /> -->
 </div>
-  
-<div align="center">  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=PlutoCtx&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
-
-<div align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlutoCtx&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PlutoCtx" /> </div>
 
 
+<div align="center">  
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=PlutoCtx&show_icons=true&theme=dark" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlutoCtx&theme=dark&layout=compact" /> 
+</div>
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PlutoCtx" /> </div>
-<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_53311714"> </div>
+
+
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PlutoCtx&theme=dark" /> </div>
+
+
+
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PlutoCtx&theme=dark" /> </div>
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_53311714&theme=dark"> </div>

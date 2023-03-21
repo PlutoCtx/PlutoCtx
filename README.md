@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
  
    <!-- profile logo 个人资料徽标 -->
 <div align="center">
-  <a href="ttps://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+  <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   <a href="https://blog.csdn.net/qq_53311714/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
   <!-- visitor statistics logo 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=PlutoCtx" alt="访客统计" />
@@ -37,4 +37,4 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PlutoCtx" /> </div>
 
-<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462"> </div>
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_53311714"> </div>

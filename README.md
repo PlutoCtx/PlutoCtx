@@ -38,7 +38,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://blog.csdn.net/qq_53311714/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
   <!-- visitor statistics logo 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=PlutoCtx" />
+  <img src="https://komarev.com/ghpvc/?username=PlutoCtx" />
 </div><br>
+
 
 <!-- <div class="post-block animated fadeIn" style="border:5px solid red">
    <h5 class="post-title" itemprop="name headline">

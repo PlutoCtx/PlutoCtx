@@ -59,17 +59,16 @@ You can click the Preview link to take a look at your changes.
   
 
   
-  <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_53311714&theme=dark"> </div><br>
-  <div align="center"> <img src="https://stats.justsong.cn/api/bilibili/?id=698922878&theme=dark"> </div><br>
-  <div align="center"> <img src="https://stats.justsong.cn/api/leetcode?username=陈沫尘&cn=true&theme=dark"> </div><br>
-  <div align="center"> <img src="https://stats.justsong.cn/api/nowcoder?id=6484283&theme=dark"> </div><br>
-  <div align="center"> <img src=" https://stats.justsong.cn/api/website/?url=https://www.luogu.com.cn/user/413823&theme=dark"> </div><br>
+  <div align="center"> 
+       <img src="https://stats.justsong.cn/api/csdn?id=qq_53311714&theme=dark"> 
+       <img src="https://stats.justsong.cn/api/bilibili/?id=698922878&theme=dark">
+  </div><br>
+  <div align="center"> 
+       <img src="https://stats.justsong.cn/api/leetcode?username=chen-mo-chen&cn=true&theme=dark"> 
+       <img src="https://stats.justsong.cn/api/nowcoder?id=97791675&theme=dark"> 
+  </div><br>
+  
  
-  
-  &style=flat&logo=github
-
-  
-
   <!-- Wakatime Graph-->
   <table>
     <tr>

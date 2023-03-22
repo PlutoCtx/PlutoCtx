@@ -50,14 +50,25 @@ You can click the Preview link to take a look at your changes.
 </div><br> -->
 
   <div align="center">  
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=PlutoCtx&show_icons=true&theme=dark" />
     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlutoCtx&theme=dark&layout=compact" /> 
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=PlutoCtx&show_icons=true&theme=dark" />
   </div><br>
 
   <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PlutoCtx&theme=dark" /> </div><br>
   <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PlutoCtx&theme=dark" /> </div><br>
-  <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_53311714&theme=dark"> </div><br>
+  
 
+  
+  <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_53311714&theme=dark"> </div><br>
+  <div align="center"> <img src="https://stats.justsong.cn/api/bilibili/?id=698922878&theme=dark"> </div><br>
+  <div align="center"> <img src="https://stats.justsong.cn/api/leetcode?username=陈沫尘&cn=true&theme=dark"> </div><br>
+  <div align="center"> <img src="https://stats.justsong.cn/api/nowcoder?id=6484283&theme=dark"> </div><br>
+  <div align="center"> <img src=" https://stats.justsong.cn/api/website/?url=https://www.luogu.com.cn/user/413823&theme=dark"> </div><br>
+ 
+  
+  &style=flat&logo=github
+
+  
 
   <!-- Wakatime Graph-->
   <table>

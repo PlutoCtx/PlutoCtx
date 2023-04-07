@@ -41,20 +41,6 @@ You can click the Preview link to take a look at your changes.
 </div><br>
 
 
-<!-- <div class="post-block animated fadeIn" style="border:5px solid red">
-   <h5 class="post-title" itemprop="name headline">
-      <a href="https://github.com/PlutoCtx" class="post-title-link" itemprop="url">Github Contribution Calendar</a>
-   </h5>
-   <div class="post-body animated fadeInDown" itemprop="articleBody">
-      <img style="width: 100%; margin-top: 30px;" src="https://ghchart.rshah.org/e77c8e/PlutoCtx" alt="PlutoCtx's Blue Github Chart" />
-   </div>
-</div><br> -->
-
-<!--   <div align="center">  
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlutoCtx&theme=dark&layout=compact" /> 
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=PlutoCtx&show_icons=true&theme=dark" />
-  </div><br> -->
-
   <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PlutoCtx&theme=dark" /> </div><br>
   <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PlutoCtx&theme=dark" /> </div><br>
   
@@ -69,16 +55,6 @@ You can click the Preview link to take a look at your changes.
        <img src="https://stats.justsong.cn/api/nowcoder?id=97791675&theme=dark"> 
   </div><br>
   
- 
-  <!-- Wakatime Graph-->
-<!--   <table>
-    <tr>
-      <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-      <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
-    </tr>
-  </table>
-</div><br> -->
-
 
 
 <!-- GitHub Activity Graph GitHub 活动图 -->

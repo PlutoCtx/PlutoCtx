@@ -3,7 +3,7 @@
 taught himself Vue, JavaScript, OpenCv, GO, React, TypeScript, Node.js, jQuery, proficiency in order, 
 and a little video editing, hoping to have the opportunity to settle in Station B as an up master who shares history and culture. 
 Familiar with springboot, flask, Django framework development web pages. I look forward to seeing the world with the girl in my heart one day
-- 📫 If necessary,you can send me an email on chentingxian195467@163.com,I also have an account in Gitee cause its stability，you can find me by search Pluto or PlutoCTX,the avatar of two accounts are same so you can ensure this is me,
+- 📫 If necessary,you can send me an email on 15905898514@163.com,I also have an account in Gitee cause its stability，you can find me by search Pluto or PlutoCTX,the avatar of two accounts are same so you can ensure this is me,
 also,I have an account on CSDN to record my daily works and life,might be a little bored.
 
 <!---

@@ -29,8 +29,13 @@ You can click the Preview link to take a look at your changes.
     </a>
     <a href="https://github.com/PlutoCtx/PlutoCtx/blob/master/LICENSE">
       <img src="https://img.shields.io/github/license/PlutoCtx/PlutoCtx?color=2b9348" alt="License Badge"/>
-    </a>
+    </a> 
 </div>
+<br>
+<br>
+![Visitor Count](https://profile-counter.glitch.me/PlutoCtx/count.svg)
+<br><br>
+
 <!-- profile logo 个人资料徽标 -->
 <div align="center">
   <a href="https://space.bilibili.com/698922878/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
@@ -54,6 +59,7 @@ You can click the Preview link to take a look at your changes.
        <img src="https://stats.justsong.cn/api/leetcode?username=chen-mo-chen&cn=true&theme=dark"> 
        <img src="https://stats.justsong.cn/api/nowcoder?id=97791675&theme=dark"> 
   </div><br>
+
   
 <!-- GitHub Activity Graph GitHub 活动图 -->
 [![PlutoCtx's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PlutoCtx&theme=github-compact)](https://github.com/PlutoCtx/github-readme-activity-graph)

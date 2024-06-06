@@ -31,10 +31,7 @@ You can click the Preview link to take a look at your changes.
       <img src="https://img.shields.io/github/license/PlutoCtx/PlutoCtx?color=2b9348" alt="License Badge"/>
     </a> 
 </div>
-<br>
-<br>
-![Visitor Count](https://profile-counter.glitch.me/PlutoCtx/count.svg)
-<br><br>
+
 
 <!-- profile logo 个人资料徽标 -->
 <div align="center">
@@ -45,6 +42,12 @@ You can click the Preview link to take a look at your changes.
   <img src="https://komarev.com/ghpvc/?username=PlutoCtx" />&emsp;
 </div><br>
 
+
+  <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlutoCtx&layout=compact&theme=tokyonight"> <br>
+      <img src="https://github-readme-stats.vercel.app/api?username=PlutoCtx&show_icons=true&theme=transparent"> <br> 
+      you are my <img src="https://profile-counter.glitch.me/PlutoCtx/count.svg"> visitor, thank you! <br>
+  </div>
 
   <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PlutoCtx&theme=dark" /> </div><br>
   <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PlutoCtx&theme=dark" /> </div><br>
@@ -59,6 +62,9 @@ You can click the Preview link to take a look at your changes.
        <img src="https://stats.justsong.cn/api/leetcode?username=chen-mo-chen&cn=true&theme=dark"> 
        <img src="https://stats.justsong.cn/api/nowcoder?id=97791675&theme=dark"> 
   </div><br>
+
+
+
 
   
 <!-- GitHub Activity Graph GitHub 活动图 -->

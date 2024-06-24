@@ -44,15 +44,13 @@ You can click the Preview link to take a look at your changes.
 
 
   <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlutoCtx&layout=compact&theme=tokyonight"> <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=PlutoCtx&show_icons=true&theme=transparent"> <br> 
-      <p style="font-weight: bold">you are my </p><img src="https://profile-counter.glitch.me/PlutoCtx/count.svg">  <p style="font-weight: bold"> visitor, thank you!</p> <br>
+      <img src="https://github-readme-stats.vercel.app/api?username=PlutoCtx&show_icons=true&theme=transparent"> 
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PlutoCtx&theme=dark" /> 
+      <p style="font-weight: bold;font-size=25px">you are my </p><img src="https://profile-counter.glitch.me/PlutoCtx/count.svg">  <p style="font-weight: bold"> visitor, thank you!</p> <br>
   </div><br><br>
 
   <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PlutoCtx&theme=dark" /> </div><br>
-  <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PlutoCtx&theme=dark" /> </div><br>
   
-
   
   <div align="center"> 
        <img src="https://stats.justsong.cn/api/csdn?id=qq_53311714&theme=dark"> 

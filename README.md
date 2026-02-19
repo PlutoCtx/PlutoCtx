@@ -69,9 +69,9 @@ You can click the Preview link to take a look at your changes.
 [![PlutoCtx's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PlutoCtx&theme=github-compact)](https://github.com/PlutoCtx/github-readme-activity-graph)
 
 <!-- WakaTime 语言占比图 -->
-<image src="https://wakatime.com/share/@PlutoCtx/3a264021-be77-4fa2-b4ae-53bd951f847e.svg"></image>
+<!-- <image src="https://wakatime.com/share/@PlutoCtx/3a264021-be77-4fa2-b4ae-53bd951f847e.svg"></image>-->
 <!-- Code Activity Time  -->
-<image src="https://wakatime.com/share/@PlutoCtx/bbedc4bb-321f-457d-ae9f-260ad155c4c7.svg"></image>
+<!-- <image src="https://wakatime.com/share/@PlutoCtx/bbedc4bb-321f-457d-ae9f-260ad155c4c7.svg"></image>-->
 
 <!--<image>
  <figure><embed src="https://wakatime.com/share/@PlutoCtx/3a264021-be77-4fa2-b4ae-53bd951f847e.svg"></embed></figure>
